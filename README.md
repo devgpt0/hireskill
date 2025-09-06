@@ -38,4 +38,4 @@ npm run tauri build
 Command to run the application:
 ```bash
 npm run tauri dev
-```
+```ff
