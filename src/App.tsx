@@ -14,11 +14,9 @@ function App() {
   return (
     <main className="container">
       <h1>Welcome to Tauri + React</h1>
-
       <p>Click on the Tauri, Vite, and React logos to learn more.</p>
 
       <form
-        className="row"
         onSubmit={(e) => {
           e.preventDefault();
           greet();
