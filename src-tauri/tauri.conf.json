@@ -19,7 +19,11 @@
     ],
     "security": {
       "csp": null
-    }
+    },
+    "permissions": [
+      "core:default",
+      "opener:default"
+    ]
   },
   "bundle": {
     "active": true,
